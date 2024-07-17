@@ -1,0 +1,22 @@
+body,h1,h2,p,ul,il{
+    margin: 10;
+    padding: 10;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: hsl(199, 78%, 42%);
+    color: hwb(0 100% 0%);
+    padding: 5px;
+}
+header h1{
+    margin: 20px;
+}
+nav ul li a{
+    color: rgb(72, 249, 1);
+    text-decoration: none;
+}
+section{
+    padding: 20px;
+}
